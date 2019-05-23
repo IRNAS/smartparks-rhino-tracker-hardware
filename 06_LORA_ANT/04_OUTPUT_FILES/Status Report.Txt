@@ -1,0 +1,11 @@
+Output: Bill of Materials Farnell Order
+Type  : BOM
+From  : Project [06_LORA_ANT.PrjPCB]
+   Generated File[Rhino - LORA ANT_V1Bill of Materials Farnell Order.xlsx]
+   Generated File[Rhino - LORA ANT_V1Bill of Materials Farnell Order.xlsx]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 14:38:16 On 22. 05. 2019

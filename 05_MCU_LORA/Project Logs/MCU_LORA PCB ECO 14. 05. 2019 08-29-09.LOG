@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=+2.5V Pin=C3-2
+Added Pin To Net: NetName=+2.5V Pin=CON1-1
+Added Pin To Net: NetName=+2.5V Pin=R2-2
+Added Pin To Net: NetName=+2.5V Pin=U1-32
+Change Net Name : Old Net Name=+2.5V New Net Name=VREF+

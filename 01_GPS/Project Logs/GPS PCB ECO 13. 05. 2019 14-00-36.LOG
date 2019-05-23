@@ -1,0 +1,11 @@
+Change component parameters: Designator = "CON1"; Footprint = "SmartParks_Rhino"; UniqueID = "\KSMMILOG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "System"; Value = "Connector"; VariantName = "[No Variations]"
+Added Component: Designator=U?(Ublox MAX M8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "u-blox"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MAX-M8Q-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "10805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "672-1003-6-ND"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=MAIN Member=Component U? Ublox MAX M8

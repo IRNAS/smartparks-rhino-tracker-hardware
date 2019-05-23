@@ -1,0 +1,33 @@
+Added Component: Designator=C2(CAP0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C3(CAP0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C7(CAP0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "C0603C106M8PACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "10=0.555, 100=0.315, 500=0.238, 1000=0.2, 2000=0.174, 4000=0.143, 20000=0.123 (GBP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2820985"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2(RES0603)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=LORA_ANT Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=NetC1_2 Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=+2.5V Pin=C7-2
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=BOOT0 Pin=R1-2
+Added Pin To Net: NetName=MCU_nRST Pin=R2-1
+Added Pin To Net: NetName=VREF+ Pin=R2-2
+Added Member To Class: ClassName=MAIN Member=Component C2 1pF
+Added Member To Class: ClassName=MAIN Member=Component C3 1pF
+Added Member To Class: ClassName=MCU Member=Component C7 10uF
+Added Member To Class: ClassName=MCU Member=Component R1 10K
+Added Member To Class: ClassName=MCU Member=Component R2 10K
+Added Room: Name=MAIN
+Added Room: Name=MCU

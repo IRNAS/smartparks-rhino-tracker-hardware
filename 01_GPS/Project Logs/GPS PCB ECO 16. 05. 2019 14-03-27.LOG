@@ -1,0 +1,5 @@
+Added Component: Designator=S?(RI-70GP0715)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=REED Pin=S?-1
+Added Pin To Net: NetName=VMCU Pin=S?-2
+Added Member To Class: ClassName=LIGHT_REED Member=Component S? RI-70GP0715

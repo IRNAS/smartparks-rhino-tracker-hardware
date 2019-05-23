@@ -1,0 +1,51 @@
+Added Component: Designator=CON1(SmartParks_Rhino)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP1(TestPoint:1.2x1.2mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Author"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ELRAD Id sifra / ELRAD Id No"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FIT"; Value = "0.94"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Komp / Device"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer No"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Opis / Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Opomba / Remark"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Toleranca / Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Velikost / Size"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP2(TestPoint:1.2x1.2mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Author"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ELRAD Id sifra / ELRAD Id No"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FIT"; Value = "0.94"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Komp / Device"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer No"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Opis / Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Opomba / Remark"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Toleranca / Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Velikost / Size"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SDA Pin=CON1-3
+Added Pin To Net: NetName=SCL Pin=CON1-4
+Added Pin To Net: NetName=VMCU Pin=CON1-5
+Added Pin To Net: NetName=GND Pin=CON1-6
+Added Pin To Net: NetName=RX Pin=CON1-9
+Added Pin To Net: NetName=TX Pin=CON1-10
+Added Pin To Net: NetName=VBKP Pin=CON1-11
+Added Pin To Net: NetName=GND Pin=CON1-12
+Added Pin To Net: NetName=VGPS Pin=CON1-13
+Added Pin To Net: NetName=VBAT Pin=CON1-14
+Added Pin To Net: NetName=NetTP1_0 Pin=TP1-0
+Added Pin To Net: NetName=NetTP1_0 Pin=U1-B1
+Added Net: Name=NetTP1_0
+Added Pin To Net: NetName=NetTP2_0 Pin=TP2-0
+Added Pin To Net: NetName=NetTP2_0 Pin=U1-A2
+Added Net: Name=NetTP2_0
+Added Member To Class: ClassName=MAIN_GPS Member=Component CON1 Between PCB connection
+Added Member To Class: ClassName=GPS Member=Component TP1 TestPoint
+Added Member To Class: ClassName=GPS Member=Component TP2 TestPoint

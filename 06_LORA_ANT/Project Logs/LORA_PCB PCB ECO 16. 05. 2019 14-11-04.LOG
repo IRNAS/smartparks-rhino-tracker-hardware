@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=CON? NewDesignator=CON1
+Added Component: Designator=CON2(SmartParks_Rhino)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=CON1-2
+Added Pin To Net: NetName=GND Pin=CON1-2
+Added Pin To Net: NetName=GND Pin=CON2-4
+Added Net: Name=GND
+Added Class: Name=MAIN_LORA_ANT

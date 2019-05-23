@@ -1,0 +1,4 @@
+Added Component: Designator=CON1(SmartParks_Rhino)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "System"; Value = "Connector"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=MAIN Member=Component CON1 Between PCB connection

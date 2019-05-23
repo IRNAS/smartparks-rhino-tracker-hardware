@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=VMCU Pin=CON1-1
+Removed Pin From Net: NetName=VBAT Pin=CON1-3
+Removed Pin From Net: NetName=SCL Pin=CON1-11
+Removed Pin From Net: NetName=SDA Pin=CON1-12
+Added Pin To Net: NetName=SDA Pin=CON1-2
+Added Pin To Net: NetName=SCL Pin=CON1-3

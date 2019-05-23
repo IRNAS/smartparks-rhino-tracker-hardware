@@ -1,0 +1,21 @@
+Change Component Designator: OldDesignator=R? NewDesignator=R14
+Added Component: Designator=CON1(SmartParks_Rhino)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VMCU Pin=C1-2
+Added Pin To Net: NetName=VMCU Pin=C2-2
+Added Pin To Net: NetName=A_INT1 Pin=CON1-1
+Added Pin To Net: NetName=A_INT2 Pin=CON1-2
+Added Pin To Net: NetName=SDA Pin=CON1-3
+Added Pin To Net: NetName=SCL Pin=CON1-4
+Added Pin To Net: NetName=VMCU Pin=CON1-5
+Added Pin To Net: NetName=GND Pin=CON1-6
+Added Pin To Net: NetName=BOOST_EN Pin=CON1-7
+Added Pin To Net: NetName=GPS_EN Pin=CON1-8
+Added Pin To Net: NetName=GND Pin=CON1-12
+Added Pin To Net: NetName=VGPS Pin=CON1-13
+Added Pin To Net: NetName=VBAT Pin=CON1-14
+Added Pin To Net: NetName=REED Pin=CON1-15
+Added Pin To Net: NetName=VMCU Pin=U1-9
+Added Pin To Net: NetName=VMCU Pin=U1-10
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR14_2
+Added Member To Class: ClassName=MAIN_POWER Member=Component CON1 Between PCB connection

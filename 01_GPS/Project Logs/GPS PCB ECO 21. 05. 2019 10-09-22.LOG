@@ -1,0 +1,44 @@
+Added Component: Designator=CON1(SmartParks_Rhino)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D1(SOD-923)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Automotive Qualification Standard"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "D:\altium\Altium_Library\Active\Datasheet\ESD9R33ST5G.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diode Case Style"; Value = "SOD-123"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diode Configuration"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diode Type"; Value = "Switching"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current If(AV)"; Value = "300"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Surge Current Ifsm Max"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage VF Max"; Value = "1.25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "DIODES INC."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1N4148W-7-F."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MSL"; Value = "MSL 1 - Unlimited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "150"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-65"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-65°C to +150°C<!--FANDB--><div class="features-and-benefits-container"><div class="features-and-benefits-description"><span class="features-benefits-value">The 1N4148W-7-F is a surface mount fast Switching Diode with moulded plastic case. Suitable for general purpose switching applications.</span></div><div class="features-and-benefits-list"><ul class="features-and-benefits-list-list"><li class="features-and-benefits-list-item">Fast Switching Speed</li><li class="features-and-benefits-list-item">2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.136, 25=0.132, 100=0.0465, 500=0.042, 1000=0.024, 3000=0.021, 9000=0.017, 30000=0.0149 (GBP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Range"; Value = "1N4148 Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Repetitive Reverse Voltage Vrrm Max"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Recovery Time trr Max"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "YES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "157320"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1776392"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SVHC"; Value = "No SVHC (17-Dec-2015)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SDA Pin=CON1-3
+Added Pin To Net: NetName=SCL Pin=CON1-4
+Added Pin To Net: NetName=VMCU Pin=CON1-5
+Added Pin To Net: NetName=GND Pin=CON1-6
+Added Pin To Net: NetName=RX Pin=CON1-9
+Added Pin To Net: NetName=TX Pin=CON1-10
+Added Pin To Net: NetName=VBKP Pin=CON1-11
+Added Pin To Net: NetName=GND Pin=CON1-12
+Added Pin To Net: NetName=VGPS Pin=CON1-13
+Added Pin To Net: NetName=VBAT Pin=CON1-14
+Added Pin To Net: NetName=GND Pin=D1-A
+Added Pin To Net: NetName=NetC10_2 Pin=D1-K
+Added Member To Class: ClassName=MAIN_GPS Member=Component CON1 Between PCB connection
+Added Member To Class: ClassName=GPS Member=Component D1 ESD9R3.3ST5G

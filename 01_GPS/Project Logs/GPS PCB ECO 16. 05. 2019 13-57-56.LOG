@@ -1,0 +1,38 @@
+Added Component: Designator=U?(S-LGA51)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "u-blox"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MAX-M8Q-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "10805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "672-1003-6-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U?-A1
+Added Pin To Net: NetName=SDA Pin=U?-A2
+Added Pin To Net: NetName=GND Pin=U?-A3
+Added Pin To Net: NetName=NetU2_6 Pin=U?-A4
+Added Pin To Net: NetName=GND Pin=U?-A5
+Added Pin To Net: NetName=GND Pin=U?-A7
+Added Pin To Net: NetName=GND Pin=U?-A8
+Added Pin To Net: NetName=GND Pin=U?-A9
+Added Pin To Net: NetName=SCL Pin=U?-B1
+Added Pin To Net: NetName=GND Pin=U?-B9
+Added Pin To Net: NetName=NetR2_2 Pin=U?-C5
+Added Pin To Net: NetName=GND Pin=U?-C7
+Added Pin To Net: NetName=GND Pin=U?-C9
+Added Pin To Net: NetName=NetR6_1 Pin=U?-D4
+Added Pin To Net: NetName=GND Pin=U?-D6
+Added Pin To Net: NetName=GND Pin=U?-E7
+Added Pin To Net: NetName=GND Pin=U?-F7
+Added Pin To Net: NetName=VGPS Pin=U?-G1
+Added Pin To Net: NetName=GND Pin=U?-G3
+Added Pin To Net: NetName=GND Pin=U?-G6
+Added Pin To Net: NetName=GND Pin=U?-G7
+Added Pin To Net: NetName=VGPS Pin=U?-H1
+Added Pin To Net: NetName=NetR1_2 Pin=U?-H9
+Added Pin To Net: NetName=VGPS Pin=U?-J1
+Added Pin To Net: NetName=VGPS Pin=U?-J2
+Added Pin To Net: NetName=GND Pin=U?-J3
+Added Pin To Net: NetName=RXD Pin=U?-J4
+Added Pin To Net: NetName=TXD Pin=U?-J5
+Added Pin To Net: NetName=GND Pin=U?-J7
+Added Pin To Net: NetName=GND Pin=U?-J9
+Added Member To Class: ClassName=GPS Member=Component U? Ublox ZOE-M8B

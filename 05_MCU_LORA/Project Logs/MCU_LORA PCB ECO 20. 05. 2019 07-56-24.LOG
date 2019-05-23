@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=VBAT Pin=C10-2
+Removed Pin From Net: NetName=VBAT Pin=R3-2
+Removed Pin From Net: NetName=BAT_AN Pin=R4-1
+Removed Pin From Net: NetName=VBAT Pin=T1-1
+Removed Pin From Net: NetName=GND Pin=T1-4
+Removed Pin From Net: NetName=NetR6_2 Pin=T1-5
+Removed Member From Class: ClassName=MAIN_MCU_LORA Member=C10
+Removed Member From Class: ClassName=MAIN_MCU_LORA Member=R3
+Change Component Footprint: Designator=T1 Old Footprint=SOT-563 New Footprint=SOT23-3AL
+Change Component Comment : Designator=T1 Old Comment=NTZD3155CT2G New Comment=BSS123
+Change component parameters: Designator = "T1"; Footprint = "SOT23-3AL"; UniqueID = "\LVAQIFZB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Author"; Value = "Ciril Golob"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLINK1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter ignored because duplicated): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLINK1URL"; Value = "c:\ELRADSVN\Altium_Library\Libraries\Active\Datasheet\BSS123.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter ignored because duplicated): Name = "ComponentLink1URL"; Value = "C:\ELRADSVN\Altium_Library\Libraries\Active\Datasheet\BSS138BKW.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLINK2Description"; Value = "Datasheet www"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLINK2URL"; Value = "http://www.onsemi.com/pub/Collateral/BSS123-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Date"; Value = "11.07.2018"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ELRAD Id sifra / ELRAD Id No"; Value = "597778"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "FIT"; Value = "0.44"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Komp / Device"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer No"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Opis / Description"; Value = "MOSFET BSS123       /N-Channel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Opomba / Remark"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Toleranca / Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "BSS123"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Velikost / Size"; Value = "SOT23"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBAT Pin=R4-2
+Added Pin To Net: NetName=NetR6_2 Pin=T1-1
+Added Pin To Net: NetName=BAT_AN Pin=T1-2
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=T1-3
+Added Net: Name=NetR4_1
