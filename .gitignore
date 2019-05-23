@@ -7,7 +7,8 @@ History/*
 01_GPS/01_SCH/__Previews/*
 01_GPS/02_PCB/__Previews/*
 01_GPS/4_OUTPUT_FILES/__Previews/*
-01_GPS/Project Logs for project_file/*
+01_GPS/Project Logs/*
+01_GPS/Project Outputs/*
 01_GPS/01_SCH/History/*
 01_GPS/02_PCB/History/*
 01_GPS/04_OUTPUT_FILES/History/*
@@ -16,7 +17,8 @@ History/*
 02_SPACER_1/History/*
 02_SPACER_1/01_SCH/__Previews/*
 02_SPACER_1/4_OUTPUT_FILES/__Previews/*
-02_SPACER_1/Project Logs for project_file/*
+02_SPACER_1/Project Logs/*
+02_SPACER_1/Project Outputs/*
 02_SPACER_1/01_SCH/History/*
 02_SPACER_1/02_PCB/History/*
 02_SPACER_1/04_OUTPUT_FILES/History/*
@@ -25,7 +27,8 @@ History/*
 03_POWER/History/*
 03_POWER/01_SCH/__Previews/*
 03_POWER/4_OUTPUT_FILES/__Previews/*
-03_POWER/Project Logs for project_file/*
+03_POWER/Project Logs/*
+03_POWER/Project Outputs/*
 03_POWER/01_SCH/History/*
 03_POWER/02_PCB/History/*
 03_POWER/04_OUTPUT_FILES/History/*
@@ -34,7 +37,8 @@ History/*
 04_SPACER_2/History/*
 04_SPACER_2/01_SCH/__Previews/*
 04_SPACER_2/4_OUTPUT_FILES/__Previews/*
-04_SPACER_2/Project Logs for project_file/*
+04_SPACER_2/Project Logs/*
+04_SPACER_2/Project Outputs/*
 04_SPACER_2/01_SCH/History/*
 04_SPACER_2/02_PCB/History/*
 04_SPACER_2/04_OUTPUT_FILES/History/*
@@ -43,7 +47,8 @@ History/*
 05_MCU_LORA/History/*
 05_MCU_LORA/01_SCH/__Previews/*
 05_MCU_LORA/4_OUTPUT_FILES/__Previews/*
-05_MCU_LORA/Project Logs for project_file/*
+05_MCU_LORA/Project Logs/*
+05_MCU_LORA/Project Outputs/*
 05_MCU_LORA/01_SCH/History/*
 05_MCU_LORA/02_PCB/History/*
 05_MCU_LORA/04_OUTPUT_FILES/History/*
@@ -52,7 +57,8 @@ History/*
 06_LORA_ANT/History/*
 06_LORA_ANT/01_SCH/__Previews/*
 06_LORA_ANT/4_OUTPUT_FILES/__Previews/*
-06_LORA_ANT/Project Logs for project_file/*
+06_LORA_ANT/Project Logs/*
+06_LORA_ANT/Project Outputs/*
 06_LORA_ANT/01_SCH/History/*
 06_LORA_ANT/02_PCB/History/*
 06_LORA_ANT/04_OUTPUT_FILES/History/*
