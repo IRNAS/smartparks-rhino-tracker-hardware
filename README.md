@@ -1,5 +1,5 @@
 # SmartParks Rhino Tracker
-<img src="https://github.com/IRNAS/smartparks-rhino-tracker-hardware/blob/master/11_DOC/irnas_logo.png" height="24">
+<img src="https://github.com/IRNAS/smartparks-rhino-tracker-hardware/blob/master/11_DOC/irnas_logo.png" height="100">
 
 Device is composed from 6 different PCBs thah are stacked in to cylinder like shape.
 
@@ -12,7 +12,9 @@ Stackup of PCBs is in this order:
 - BATTER
 - LORA ANTENNA (BOTTOM PCB)
 
-![alt tag](https://github.com/IRNAS/smartparks-rhino-tracker-hardware/blob/master/11_DOC/Rhino_2.png)
+<img src="https://github.com/IRNAS/smartparks-rhino-tracker-hardware/blob/master/11_DOC/Rhino_2.png" height="150">
+<img src="https://github.com/IRNAS/smartparks-rhino-tracker-hardware/blob/master/11_DOC/Rhino_1.png" height="150">
+<img src="https://github.com/IRNAS/smartparks-rhino-tracker-hardware/blob/master/11_DOC/Rhino_3.png" height="150">
 
 
 
