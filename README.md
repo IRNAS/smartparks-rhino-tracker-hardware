@@ -2,6 +2,7 @@
 ![alt tag](https://github.com/IRNAS/smartparks-rhino-tracker-hardware/blob/master/11_DOC/irnas_logo.png)
 
 Device is composed from 6 different PCBs thah are stacked in to cylinder like shape.
+
 Stackup of PCBs is in this order:
 - GPS (Top PCB)
 - SPACER 1
