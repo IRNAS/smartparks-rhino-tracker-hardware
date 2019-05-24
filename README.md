@@ -1,5 +1,5 @@
 # SmartParks Rhino Tracker
-![alt tag](https://github.com/IRNAS/koruza-compute-module/blob/board_0.2/pics/koruza-logo-colour-med.png)
+![alt tag](https://github.com/IRNAS/smartparks-rhino-tracker-hardware/blob/master/11_DOC/irnas_logo.png)
 
 Device is composed from 6 different PCBs thah are stacked in to cylinder like shape.
 Stackup of PCBs is in this order:
