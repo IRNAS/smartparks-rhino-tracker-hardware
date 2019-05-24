@@ -16,7 +16,7 @@ Stackup of PCBs is in this order:
 
 
 
-Currently under development, for all information see the [schematic PDF file](https://github.com/IRNAS/smartparks-rhino-tracker-hardware/blob/master/10_OUTPUT_FILES/Rhino_V1_SCHEMATICS/Rhino_V1_SCHEMATICS.pdf).Produced board versions can be found in the [release section](https://github.com/IRNAS/koruza-compute-module/releases) of the repository.
+Currently under development, for all information see the [schematic PDF file](https://github.com/IRNAS/smartparks-rhino-tracker-hardware/blob/master/10_OUTPUT_FILES/Rhino_V1_SCHEMATICS/Rhino_V1_SCHEMATICS.pdf).Produced board versions can be found in the [release section](https://github.com/IRNAS/smartparks-rhino-tracker-hardware/releases) of the repository.
 
 **Latest release: [v0]()**
 
