@@ -1,5 +1,5 @@
 # SmartParks Rhino Tracker
-![alt tag](https://github.com/IRNAS/smartparks-rhino-tracker-hardware/blob/master/11_DOC/irnas_logo.png)
+![alt tag](https://github.com/IRNAS/smartparks-rhino-tracker-hardware/blob/master/11_DOC/irnas_logo.png | width=100)
 
 Device is composed from 6 different PCBs thah are stacked in to cylinder like shape.
 
