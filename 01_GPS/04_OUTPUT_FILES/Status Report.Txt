@@ -1,11 +1,14 @@
-Output: Bill of Materials Farnell Order
-Type  : BOM
-From  : Project [01_GPS.PrjPCB]
-   Generated File[Rhino - GPS_V1Bill of Materials Farnell Order.xlsx]
-   Generated File[Rhino - GPS_V1Bill of Materials Farnell Order.xlsx]
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 09:26:34 On 24. 05. 2019
+
+Output: 3D
+Type  : ExportSTEP
+From  : PCB Document [GPS.PcbDoc]
+   Generated File[Rhino - GPS_V1_3D STEP.step]
 
 
-Files Generated   : 2
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 14:36:58 On 22. 05. 2019
+Finished Output Generation At 09:26:37 On 24. 05. 2019

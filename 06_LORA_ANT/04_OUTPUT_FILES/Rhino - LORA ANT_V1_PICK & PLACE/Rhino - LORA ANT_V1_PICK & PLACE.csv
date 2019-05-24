@@ -1,0 +1,21 @@
+Altium Designer Pick and Place Locations
+D:\OneDrive\IRNAS-Common\_NEW-IRNAS-COMMON\SmartParks\Smartparks - Rhino tracker\06_LORA_ANT\04_OUTPUT_FILES\Rhino - LORA ANT_V1_PICK & PLACE\Rhino - LORA ANT_V1_PICK & PLACE.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       24/05/19
+Time:       09:39
+Revision:   2a36bf95e564ebfa671aa52bb7328deb37623523
+Variant:    No variations
+Units used: mm
+
+"Designator","Footprint","Center-X(mm)","Center-Y(mm)","Ref-X(mm)","Ref-Y(mm)","Pad-X(mm)","Pad-Y(mm)","Layer","Rotation","Comment"
+"S1","RI-70GP0715","4.9100","16.8500","4.9100","16.8500","7.0198","20.1301","TopLayer","237,25","RI-70GP0715"
+"R1","RES0402","3.8700","16.6100","3.8700","16.6100","3.8700","16.1100","BottomLayer","90","100k"
+"C2","CAP0402","7.4600","13.7000","7.4600","13.7000","6.9800","13.7000","BottomLayer","360","1.8pF"
+"L3","IND0402","2.5900","11.8700","2.5900","11.8700","2.1200","11.8700","BottomLayer","360","4.3nH"
+"L2","IND0402","8.3200","15.2900","8.3200","15.2900","8.3200","15.7600","BottomLayer","270","4.3nH"
+"C1","CAP0402","7.4600","16.8700","7.4600","16.8700","6.9800","16.8700","BottomLayer","360","1.8pF"
+"A1","LORA_PCB_ANTENNA","10.9700","7.5700","10.9700","7.5700","5.9200","11.8700","BottomLayer","0","SR42I010-R"
+"CON2","ufl_connector_smd","11.2820","18.5300","11.7800","18.3800","10.5320","18.5300","TopLayer","90","U.FL-R-SMT-1(10)"

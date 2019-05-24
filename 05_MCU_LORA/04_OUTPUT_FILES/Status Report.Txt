@@ -1,11 +1,14 @@
-Output: Bill of Materials Farnell Order
-Type  : BOM
-From  : Project [05_MCU_LORA.PrjPCB]
-   Generated File[Rhino - MCU_V1Bill of Materials Farnell Order.xlsx]
-   Generated File[Rhino - MCU_V1Bill of Materials Farnell Order.xlsx]
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 09:39:15 On 24. 05. 2019
+
+Output: 3D
+Type  : ExportSTEP
+From  : PCB Document [MCU_LORA.PcbDoc]
+   Generated File[Rhino - MCU_V1_3D STEP.step]
 
 
-Files Generated   : 2
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 14:37:52 On 22. 05. 2019
+Finished Output Generation At 09:39:17 On 24. 05. 2019

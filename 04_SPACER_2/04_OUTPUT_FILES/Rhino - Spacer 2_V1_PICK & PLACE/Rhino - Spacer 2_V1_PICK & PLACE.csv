@@ -1,0 +1,14 @@
+Altium Designer Pick and Place Locations
+D:\OneDrive\IRNAS-Common\_NEW-IRNAS-COMMON\SmartParks\Smartparks - Rhino tracker\04_SPACER_2\04_OUTPUT_FILES\Rhino - Spacer 2_V1_PICK & PLACE\Rhino - Spacer 2_V1_PICK & PLACE.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       24/05/19
+Time:       09:35
+Revision:   2a36bf95e564ebfa671aa52bb7328deb37623523
+Variant:    No variations
+Units used: mm
+
+"Designator","Footprint","Center-X(mm)","Center-Y(mm)","Ref-X(mm)","Ref-Y(mm)","Pad-X(mm)","Pad-Y(mm)","Layer","Rotation","Comment"
+"CON1","SmartParks_Rhino","10.9965","11.0000","11.0000","11.0000","11.0000","22.0000","TopLayer","0","Between PCB connection"
