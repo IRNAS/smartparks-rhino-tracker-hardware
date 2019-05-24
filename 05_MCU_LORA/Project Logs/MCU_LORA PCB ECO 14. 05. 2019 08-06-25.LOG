@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=SDA Pin=CON1-5
-Removed Pin From Net: NetName=SCL Pin=CON1-6
-Removed Pin From Net: NetName=GPS_TX Pin=CON1-7
-Removed Pin From Net: NetName=GPS_RX Pin=CON1-8
-Added Pin To Net: NetName=GPS_RX Pin=CON1-7
-Added Pin To Net: NetName=GPS_TX Pin=CON1-8
-Added Pin To Net: NetName=SCL Pin=CON1-11
-Added Pin To Net: NetName=SDA Pin=CON1-12

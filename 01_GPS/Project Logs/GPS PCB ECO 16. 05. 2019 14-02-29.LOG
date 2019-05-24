@@ -1,5 +1,0 @@
-Change Component Designator: OldDesignator=U? NewDesignator=U1
-Change Net Name : Old Net Name=NetU2_6 New Net Name=NetU1_A4
-Added Room: Name=GPS
-Added Room: Name=LIGHT_REED
-Added Room: Name=MAIN_GPS

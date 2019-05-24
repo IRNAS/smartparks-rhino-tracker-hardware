@@ -1,8 +1,0 @@
-Added Component: Designator=C1(CAP0402)
-Add component. Clean all parameters for all variants
-Added Pin To Net: NetName=LORA_ANT Pin=C1-2
-Added Pin To Net: NetName=NetC1_1 Pin=C1-1
-Added Pin To Net: NetName=NetC1_1 Pin=C3-2
-Added Pin To Net: NetName=NetC1_1 Pin=CON2-1
-Added Net: Name=NetC1_1
-Added Member To Class: ClassName=MAIN Member=Component C1 1pF

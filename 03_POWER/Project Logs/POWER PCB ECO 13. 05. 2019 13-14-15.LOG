@@ -1,5 +1,0 @@
-Added Component: Designator=CON2(SmartParks_Rhino)
-Add component. Clean all parameters for all variants
-Add component (AddParameter): Name = "System"; Value = "Connector"; VariantName = "[No Variations]"
-Added Class: Name=MAIN
-Added Room: Name=MAIN

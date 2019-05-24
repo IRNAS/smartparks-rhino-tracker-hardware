@@ -1,7 +1,0 @@
-Added Component: Designator=CON1(SmartParks_Rhino)
-Add component. Clean all parameters for all variants
-Added Pin To Net: NetName=VMCU Pin=CON1-5
-Added Pin To Net: NetName=GND Pin=CON1-6
-Added Pin To Net: NetName=GND Pin=CON1-12
-Added Pin To Net: NetName=REED Pin=CON1-15
-Added Member To Class: ClassName=MAIN_LORA_ANT Member=Component CON1 Between PCB connection

@@ -1,6 +1,0 @@
-Added Pin To Net: NetName=GND Pin=CON1-12
-Added Pin To Net: NetName=VBAT Pin=CON1-14
-Added Pin To Net: NetName=GND Pin=CON1-16
-Change Net Name : Old Net Name=PB7 New Net Name=REED
-Added Pin To Net: NetName=VGPS Pin=CON1-13
-Added Net: Name=VGPS

@@ -1,7 +1,0 @@
-Added Component: Designator=CON?(SmartParks_Rhino)
-Add component. Clean all parameters for all variants
-Added Pin To Net: NetName=GND Pin=CON?-8
-Added Pin To Net: NetName=GND Pin=CON?-10
-Added Pin To Net: NetName=GND Pin=CON?-14
-Added Member To Class: ClassName=MAIN_LORA_ANT Member=Component CON2 U.FL-R-SMT-1(10)
-Added Member To Class: ClassName=MAIN_LORA_ANT Member=Component CON? Between PCB connection
