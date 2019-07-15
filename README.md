@@ -15,8 +15,8 @@ PCB specifications:
 - 0.75mm RF line thinknes
 
 Connections between PCBs:
-MCU -> GPS - Solder pads on each PCB
-MCU -> LORA antenna - Coaxial cable
+- MCU -> GPS - Solder pads on each PCB
+- MCU -> LORA antenna - Coaxial cable
 
 Assebled view
  
