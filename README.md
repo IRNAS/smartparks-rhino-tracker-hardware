@@ -30,15 +30,14 @@ Future changes:
 - GPS
 	- Reposition of GPS antenna to the center of the PCB
 	- Better power supply for GPS (Lower working voltage)
-	- Improve GND polygon for better GPS antenna performance
-	
-	<img src="https://github.com/IRNAS/smartparks-rhino-tracker-hardware/blob/master/11_DOC/Rhino_V2_1_10.png" height="200">			<img src="https://github.com/IRNAS/smartparks-rhino-tracker-hardware/blob/master/11_DOC/Rhino_V2_1_11.png" height="200">	
+	- Improve GND polygon for better GPS antenna performance	
+			<img src="https://github.com/IRNAS/smartparks-rhino-tracker-hardware/blob/master/11_DOC/Rhino_V2_1_10.png" height="200">			<img src="https://github.com/IRNAS/smartparks-rhino-tracker-hardware/blob/master/11_DOC/Rhino_V2_1_11.png" height="200">	
 - MCU
 	- Optimize track path for antenna
 	- Change PCB orientation in final assembly like so that MCU is under battery
 	- Optimize hardware for battery voltage measure
 	- Move REED switch closer to the MCU
-	<img src="https://github.com/IRNAS/smartparks-rhino-tracker-hardware/blob/master/11_DOC/Rhino_V2_1_12.png" height="200">
+			<img src="https://github.com/IRNAS/smartparks-rhino-tracker-hardware/blob/master/11_DOC/Rhino_V2_1_12.png" height="200">
 - LORA ANTENNA
 	- Component value optimization for better antenna performance
  
