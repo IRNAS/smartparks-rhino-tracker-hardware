@@ -27,11 +27,12 @@ Exploded view
 <img src="https://github.com/IRNAS/smartparks-rhino-tracker-hardware/blob/master/11_DOC/Rhino_V2_1_8.png" height="200">			<img src="https://github.com/IRNAS/smartparks-rhino-tracker-hardware/blob/master/11_DOC/Rhino_V2_1_9.png" height="200">
 
 Future changes:
-- 
-- 
-- 
-- 
-- 
+- GPS
+	- Reposotion of GPS antenna to the center of the PCB
+	- Better power supply for GPS (Lower working voltage)
+	- Improve GND polygon for better GPS antenna performance
+- MCU
+- LORA ANTENNA
 
 
 Currently under development, for all information see the [schematic PDF file](https://github.com/IRNAS/smartparks-rhino-tracker-hardware/blob/master/10_OUTPUT_FILES/).Produced board versions can be found in the [release section](https://github.com/IRNAS/smartparks-rhino-tracker-hardware/releases) of the repository.
