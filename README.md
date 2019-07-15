@@ -1,16 +1,13 @@
 # SmartParks Rhino Tracker
 <img src="https://github.com/IRNAS/smartparks-rhino-tracker-hardware/blob/master/11_DOC/irnas_logo.png" height="100">
 
-Device is composed from 6 different PCBs thah are stacked in to cylinder like shape.
+Device is composed from 3 different PCBs thah are stacked in to box like shape.
 
 Stackup of PCBs is in this order:
 - GPS (Top PCB)
-- SPACER 1
-- POWER
-- SPACER 2
-- MCU
-- BATTER
-- LORA ANTENNA (BOTTOM PCB)
+- MCU (Side PCB)
+- LORA ANTENNA (Side PCB)
+- BATTERY (Between side PCBs)
 
 <img src="https://github.com/IRNAS/smartparks-rhino-tracker-hardware/blob/master/11_DOC/Rhino_2.png" height="250">			<img src="https://github.com/IRNAS/smartparks-rhino-tracker-hardware/blob/master/11_DOC/Rhino_1.png" height="250">			<img src="https://github.com/IRNAS/smartparks-rhino-tracker-hardware/blob/master/11_DOC/Rhino_4.png" height="250">
 
@@ -18,10 +15,10 @@ Stackup of PCBs is in this order:
 
 Currently under development, for all information see the [schematic PDF file](https://github.com/IRNAS/smartparks-rhino-tracker-hardware/blob/master/10_OUTPUT_FILES/Rhino_V1_SCHEMATICS/Rhino_V1_SCHEMATICS.pdf).Produced board versions can be found in the [release section](https://github.com/IRNAS/smartparks-rhino-tracker-hardware/releases) of the repository.
 
-**Latest release: [V1.0](https://github.com/IRNAS/smartparks-rhino-tracker-hardware/releases)**
+**Latest release: [v0]()**
 
 
-All comments and suggestions can be added to the [Issues]() section of the repo.
+All comments and suggestions can be added to the [Issues]() section of the repo. For additional details see the [Issue]() section or contact me at aleksej@irnas.eu
 
 ---
 
