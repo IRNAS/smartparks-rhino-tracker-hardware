@@ -55,9 +55,7 @@ Future changes:
 		- Keeping the gap between battery na LORA antenna eqalu on all devices assebled
 		- Preventing the resin to go under the MCU metal case (There was a problem with RF radio when resin came under matel case of MCU)
 		- Preventing the resin to go under GPS BGA chip (There was a problem when resin came under BGA and coused cold solder joints)
-		
-		
-	
+	- Resin thinknes arount the device is 2mm	
  
   
 Currently under development, for all information see the [schematic PDF file](https://github.com/IRNAS/smartparks-rhino-tracker-hardware/blob/master/10_OUTPUT_FILES/).Produced board versions can be found in the [release section](https://github.com/IRNAS/smartparks-rhino-tracker-hardware/releases) of the repository.
