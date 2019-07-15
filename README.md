@@ -46,7 +46,12 @@ Future changes:
 	- Component value optimization for better antenna performance
  	
 		<img src="https://github.com/IRNAS/smartparks-rhino-tracker-hardware/blob/master/11_DOC/Rhino_V2_1_13.png" height="200">
-		
+
+- Mehanical Specification:
+	- Device dimensions 32x24x27mm
+	- Device weight: ~30g
+	- Device is put in polyurethane resin to protect it (https://si.farnell.com/electrolube/ur5640rp250g/resin-pur-packet-250g-transparent/dp/2786027)
+	
  
   
 Currently under development, for all information see the [schematic PDF file](https://github.com/IRNAS/smartparks-rhino-tracker-hardware/blob/master/10_OUTPUT_FILES/).Produced board versions can be found in the [release section](https://github.com/IRNAS/smartparks-rhino-tracker-hardware/releases) of the repository.
