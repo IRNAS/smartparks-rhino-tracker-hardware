@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [MCU.PcbDoc]
+   Generated File[Rhino - MCU_V2.1.TXT]
+   Generated File[Rhino - MCU_V2.1.DRL]
+   Generated File[Rhino - MCU_V2.1.LDP]
+   Generated File[Rhino - MCU_V2.1.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 11:01:52 On 15. 07. 2019

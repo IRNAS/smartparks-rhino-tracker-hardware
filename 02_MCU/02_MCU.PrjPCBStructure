@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=MAIN.SchDoc
+Record=SheetSymbol|SourceDocument=MAIN.SchDoc|Designator=MCU|SchDesignator=MCU|FileName=MCU.SchDoc|SymbolType=Normal|RawFileName=MCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=MAIN.SchDoc|Designator=SENSORS|SchDesignator=SENSORS|FileName=SENSORS.SchDoc|SymbolType=Normal|RawFileName=SENSORS.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
