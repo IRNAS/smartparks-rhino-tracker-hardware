@@ -4,10 +4,19 @@
 Device is composed from 3 different PCBs thah are stacked in to box like shape.
 
 Stackup of PCBs is in this order:
-- GPS (Top PCB)
-- MCU (Side PCB)
-- LORA ANTENNA (Side PCB)
+- GPS (Top PCB)					Size: 28mm x 20mm 
+- MCU (Side PCB)				Size: 28mm x 20mm (After final assembly)
+- LORA ANTENNA (Side PCB)		Size: 28mm x 15.5mm
 - BATTERY (Between side PCBs)
+
+PCB specifications:
+- 0.8mm PCB thinknes
+- 0.152mm (6mil) trace to trace and trace to polygon clearance
+- 0.75mm RF line thinknes
+
+Connections between PCBs:
+MCU -> GPS - Solder pads on each PCB
+MCU -> LORA antenna - Coaxial cable
 
 Assebled view
  
@@ -15,8 +24,14 @@ Assebled view
 
 Exploded view
  
-<img src="https://github.com/IRNAS/smartparks-rhino-tracker-hardware/blob/master/11_DOC/Rhino_V2_1_8.png" height="200">
+<img src="https://github.com/IRNAS/smartparks-rhino-tracker-hardware/blob/master/11_DOC/Rhino_V2_1_8.png" height="200">			<img src="https://github.com/IRNAS/smartparks-rhino-tracker-hardware/blob/master/11_DOC/Rhino_V2_1_9.png" height="200">
 
+Future changes:
+- 
+- 
+- 
+- 
+- 
 
 
 Currently under development, for all information see the [schematic PDF file](https://github.com/IRNAS/smartparks-rhino-tracker-hardware/blob/master/10_OUTPUT_FILES/).Produced board versions can be found in the [release section](https://github.com/IRNAS/smartparks-rhino-tracker-hardware/releases) of the repository.
