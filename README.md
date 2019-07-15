@@ -24,7 +24,7 @@ Currently under development, for all information see the [schematic PDF file](ht
 **Latest release: [v2.1]()**
 
 
-All comments and suggestions can be added to the [Issues]() section of the repo. For additional details see the [Issue]() section or contact me at aleksej@irnas.eu
+All comments and suggestions can be added to the [Issues]() section of the repo. For additional details see the [Issue]() section.
 
 ---
 
