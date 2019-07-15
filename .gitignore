@@ -10,8 +10,8 @@ History/*
 01_GPS/01_SCH/History/*
 01_GPS/02_PCB/__Previews/*
 01_GPS/02_PCB/History/*
-01_GPS/4_OUTPUT_FILES/__Previews/*
-01_GPS/4_OUTPUT_FILES/Status Report.Txt
+01_GPS/04_OUTPUT_FILES/__Previews/*
+01_GPS/04_OUTPUT_FILES/Status Report.Txt
 01_GPS/04_OUTPUT_FILES/History/*
 # MCU #
 ###################
@@ -22,8 +22,8 @@ History/*
 02_MCU/01_SCH/History/*
 02_MCU/02_PCB/__Previews/*
 02_MCU/02_PCB/History/*
-02_MCU/4_OUTPUT_FILES/__Previews/*
-02_MCU/4_OUTPUT_FILES/Status Report.Txt
+02_MCU/04_OUTPUT_FILES/__Previews/*
+02_MCU/04_OUTPUT_FILES/Status Report.Txt
 02_MCU/04_OUTPUT_FILES/History/*
 # LORA ANT #
 ###################
@@ -34,6 +34,6 @@ History/*
 03_LORA_ANT/01_SCH/History/*
 03_LORA_ANT/02_PCB/__Previews/*
 03_LORA_ANT/02_PCB/History/*
-03_LORA_ANT/4_OUTPUT_FILES/__Previews/*
-03_LORA_ANT/4_OUTPUT_FILES/Status Report.Txt
+03_LORA_ANT/04_OUTPUT_FILES/__Previews/*
+03_LORA_ANT/04_OUTPUT_FILES/Status Report.Txt
 03_LORA_ANT/04_OUTPUT_FILES/History/*
