@@ -9,7 +9,12 @@ Stackup of PCBs is in this order:
 - LORA ANTENNA (Side PCB)
 - BATTERY (Between side PCBs)
 
-<img src="https://github.com/IRNAS/smartparks-rhino-tracker-hardware/blob/master/11_DOC/Rhino_V2_1_6.png" height="250">			<img src="https://github.com/IRNAS/smartparks-rhino-tracker-hardware/blob/master/11_DOC/Rhino_V2_1_7.png" height="250">			<img src="https://github.com/IRNAS/smartparks-rhino-tracker-hardware/blob/master/11_DOC/Rhino_V2_1_8.png" height="250">
+Assebled view
+<img src="https://github.com/IRNAS/smartparks-rhino-tracker-hardware/blob/master/11_DOC/Rhino_V2_1_6.png" height="200">			<img src="https://github.com/IRNAS/smartparks-rhino-tracker-hardware/blob/master/11_DOC/Rhino_V2_1_7.png" height="200">			
+
+Exploded view
+<img src="https://github.com/IRNAS/smartparks-rhino-tracker-hardware/blob/master/11_DOC/Rhino_V2_1_8.png" height="20
+0">
 
 
 
