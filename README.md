@@ -41,9 +41,9 @@ Future changes:
 	<img src="https://github.com/IRNAS/smartparks-rhino-tracker-hardware/blob/master/11_DOC/Rhino_V2_1_12.png" height="200">
 - LORA ANTENNA
 	- Component value optimization for better antenna performance
-
-
-
+ 
+ 
+  
 Currently under development, for all information see the [schematic PDF file](https://github.com/IRNAS/smartparks-rhino-tracker-hardware/blob/master/10_OUTPUT_FILES/).Produced board versions can be found in the [release section](https://github.com/IRNAS/smartparks-rhino-tracker-hardware/releases) of the repository.
 
 **Latest release: [v2.1](https://github.com/IRNAS/smartparks-rhino-tracker-hardware)**
