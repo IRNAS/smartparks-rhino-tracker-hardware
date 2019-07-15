@@ -51,6 +51,12 @@ Future changes:
 	- Device dimensions 32x24x27mm
 	- Device weight: ~30g
 	- Device is put in polyurethane resin to protect it (https://si.farnell.com/electrolube/ur5640rp250g/resin-pur-packet-250g-transparent/dp/2786027)
+	- Inside of the device and around the battery there is pa peace of plastic for:
+		- Keeping the gap between battery na LORA antenna eqalu on all devices assebled
+		- Preventing the resin to go under the MCU metal case (There was a problem with RF radio when resin came under matel case of MCU)
+		- Preventing the resin to go under GPS BGA chip (There was a problem when resin came under BGA and coused cold solder joints)
+		
+		
 	
  
   
