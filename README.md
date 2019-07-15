@@ -21,7 +21,7 @@ Exploded view
 
 Currently under development, for all information see the [schematic PDF file](https://github.com/IRNAS/smartparks-rhino-tracker-hardware/blob/master/10_OUTPUT_FILES/).Produced board versions can be found in the [release section](https://github.com/IRNAS/smartparks-rhino-tracker-hardware/releases) of the repository.
 
-**Latest release: [v2.1]()**
+**Latest release: [v2.1](https://github.com/IRNAS/smartparks-rhino-tracker-hardware)**
 
 
 All comments and suggestions can be added to the [Issues]() section of the repo. For additional details see the [Issue]() section.
