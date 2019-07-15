@@ -9,13 +9,13 @@ Stackup of PCBs is in this order:
 - LORA ANTENNA (Side PCB)
 - BATTERY (Between side PCBs)
 
-<img src="https://github.com/IRNAS/smartparks-rhino-tracker-hardware/blob/master/11_DOC/Rhino_2.png" height="250">			<img src="https://github.com/IRNAS/smartparks-rhino-tracker-hardware/blob/master/11_DOC/Rhino_1.png" height="250">			<img src="https://github.com/IRNAS/smartparks-rhino-tracker-hardware/blob/master/11_DOC/Rhino_4.png" height="250">
+<img src="https://github.com/IRNAS/smartparks-rhino-tracker-hardware/blob/master/11_DOC/Rhino__V2_1_7" height="250">			<img src="https://github.com/IRNAS/smartparks-rhino-tracker-hardware/blob/master/11_DOC/Rhino__V2_1_6.png" height="250">			<img src="https://github.com/IRNAS/smartparks-rhino-tracker-hardware/blob/master/11_DOC/Rhino__V2_1_5.png" height="250">
 
 
 
-Currently under development, for all information see the [schematic PDF file](https://github.com/IRNAS/smartparks-rhino-tracker-hardware/blob/master/10_OUTPUT_FILES/Rhino_V1_SCHEMATICS/Rhino_V1_SCHEMATICS.pdf).Produced board versions can be found in the [release section](https://github.com/IRNAS/smartparks-rhino-tracker-hardware/releases) of the repository.
+Currently under development, for all information see the [schematic PDF file](https://github.com/IRNAS/smartparks-rhino-tracker-hardware/blob/master/10_OUTPUT_FILES/).Produced board versions can be found in the [release section](https://github.com/IRNAS/smartparks-rhino-tracker-hardware/releases) of the repository.
 
-**Latest release: [v0]()**
+**Latest release: [v2.1]()**
 
 
 All comments and suggestions can be added to the [Issues]() section of the repo. For additional details see the [Issue]() section or contact me at aleksej@irnas.eu
