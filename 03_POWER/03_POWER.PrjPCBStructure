@@ -1,3 +1,0 @@
-Record=TopLevelDocument|FileName=MAIN_POWER.SchDoc
-Record=SheetSymbol|SourceDocument=MAIN_POWER.SchDoc|Designator=ACCELEROMETER|SchDesignator=ACCELEROMETER|FileName=ACCEL.SchDoc|SymbolType=Normal|RawFileName=ACCEL.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=MAIN_POWER.SchDoc|Designator=POWER|SchDesignator=POWER|FileName=POWER.SchDoc|SymbolType=Normal|RawFileName=POWER.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

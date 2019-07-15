@@ -1,6 +1,0 @@
-DRC Rules Export File for PCB: D:\OneDrive\IRNAS-Common\_NEW-IRNAS-COMMON\SmartParks\Smartparks - Rhino tracker\05_MCU_LORA\02_PCB\MCU_LORA.PcbDoc
-RuleKind=Clearance|RuleName=Clearance_CON|Scope=Board|Minimum=-3937.01
-RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
-RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.91
-RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.98
-RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
