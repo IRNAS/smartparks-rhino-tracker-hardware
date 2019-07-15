@@ -1,4 +1,0 @@
-Remove Pin=R10-2 From Net=SWDIO
-Remove Pin=R13-1 From Net=RESET
-Remove Pin=R14-2 From Net=SWCLK
-Remove Pin=R15-2 From Net=UART2_TX
