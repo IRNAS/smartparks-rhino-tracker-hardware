@@ -45,7 +45,7 @@ Future changes:
 - LORA ANTENNA
 	- Component value optimization for better antenna performance
  	
-		<img src="https://github.com/IRNAS/smartparks-rhino-tracker-hardware/blob/master/11_DOC/Rhino_V2_1_12.png" height="200">
+		<img src="https://github.com/IRNAS/smartparks-rhino-tracker-hardware/blob/master/11_DOC/Rhino_V2_1_13.png" height="200">
 		
  
   
