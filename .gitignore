@@ -1,0 +1,39 @@
+# General#
+###################
+History/*
+# GPS #
+###################
+01_GPS/History/*
+01_GPS/Project Logs/*
+01_GPS/Project Outputs/*
+01_GPS/01_SCH/__Previews/*
+01_GPS/01_SCH/History/*
+01_GPS/02_PCB/__Previews/*
+01_GPS/02_PCB/History/*
+01_GPS/4_OUTPUT_FILES/__Previews/*
+01_GPS/4_OUTPUT_FILES/Status Report.Txt
+01_GPS/04_OUTPUT_FILES/History/*
+# MCU #
+###################
+02_MCU/History/*
+02_MCU/Project Logs/*
+02_MCU/Project Outputs/*
+02_MCU/01_SCH/__Previews/*
+02_MCU/01_SCH/History/*
+02_MCU/02_PCB/__Previews/*
+02_MCU/02_PCB/History/*
+02_MCU/4_OUTPUT_FILES/__Previews/*
+02_MCU/4_OUTPUT_FILES/Status Report.Txt
+02_MCU/04_OUTPUT_FILES/History/*
+# LORA ANT #
+###################
+03_LORA_ANT/History/*
+03_LORA_ANT/Project Logs/*
+03_LORA_ANT/Project Outputs/*
+03_LORA_ANT/01_SCH/__Previews/*
+03_LORA_ANT/01_SCH/History/*
+03_LORA_ANT/02_PCB/__Previews/*
+03_LORA_ANT/02_PCB/History/*
+03_LORA_ANT/4_OUTPUT_FILES/__Previews/*
+03_LORA_ANT/4_OUTPUT_FILES/Status Report.Txt
+03_LORA_ANT/04_OUTPUT_FILES/History/*
