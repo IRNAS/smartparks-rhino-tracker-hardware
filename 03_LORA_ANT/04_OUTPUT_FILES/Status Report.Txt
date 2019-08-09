@@ -1,15 +1,15 @@
 Project Outputs Generation Report
 ---------------------------------
-Start Output Generation At 11:13:27 On 15. 07. 2019
+Start Output Generation At 12:57:00 On 17. 06. 2019
 
-Output: Bill of Materials
+Output: Bill of Materials Farnell Order
 Type  : BOM
 From  : Project [03_LORA_ANT.PrjPCB]
-   Generated File[Rhino - LORA ANT_V2.1Bill of Materials.xlsx]
-   Generated File[Rhino - LORA ANT_V2.1Bill of Materials.xlsx]
+   Generated File[Rhino - MCU_V1Bill of Materials Farnell Order.xlsx]
+   Generated File[Rhino - MCU_V1Bill of Materials Farnell Order.xlsx]
 
 
 Files Generated   : 2
 Documents Printed : 0
 
-Finished Output Generation At 11:13:33 On 15. 07. 2019
+Finished Output Generation At 12:57:06 On 17. 06. 2019

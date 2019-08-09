@@ -1,0 +1,12 @@
+Record=DiagramHierarchy|SourceDocument=RhinoTracker_V2.MbsDoc|Kind=Multi-board Schematic Module|Designator=GPS|Source=01_GPS\01_GPS.PrjPCB
+Record=SubProject|SourceDocument=RhinoTracker_V2.MbsDoc|ProjectPath=01_GPS\01_GPS.PrjPCB
+Record=DiagramHierarchy|SourceDocument=RhinoTracker_V2.MbsDoc|Kind=Multi-board Schematic Module|Designator=MCU|Source=02_MCU\02_MCU.PrjPCB
+Record=SubProject|SourceDocument=RhinoTracker_V2.MbsDoc|ProjectPath=02_MCU\02_MCU.PrjPCB
+Record=DiagramHierarchy|SourceDocument=RhinoTracker_V2.MbsDoc|Kind=Multi-board Schematic Module|Designator=LORA_ANT|Source=03_LORA_ANT\03_LORA_ANT.PrjPCB
+Record=SubProject|SourceDocument=RhinoTracker_V2.MbsDoc|ProjectPath=03_LORA_ANT\03_LORA_ANT.PrjPCB
+Record=DiagramHierarchy|SourceDocument=RhinoTracker_V2_2.MbsDoc|Kind=Multi-board Schematic Module|Designator=GPS|Source=01_GPS\01_GPS.PrjPCB
+Record=SubProject|SourceDocument=RhinoTracker_V2_2.MbsDoc|ProjectPath=01_GPS\01_GPS.PrjPCB
+Record=DiagramHierarchy|SourceDocument=RhinoTracker_V2_2.MbsDoc|Kind=Multi-board Schematic Module|Designator=MCU|Source=02_MCU\02_MCU.PrjPCB
+Record=SubProject|SourceDocument=RhinoTracker_V2_2.MbsDoc|ProjectPath=02_MCU\02_MCU.PrjPCB
+Record=DiagramHierarchy|SourceDocument=RhinoTracker_V2_2.MbsDoc|Kind=Multi-board Schematic Module|Designator=LORA_ANT|Source=03_LORA_ANT\03_LORA_ANT.PrjPCB
+Record=SubProject|SourceDocument=RhinoTracker_V2_2.MbsDoc|ProjectPath=03_LORA_ANT\03_LORA_ANT.PrjPCB

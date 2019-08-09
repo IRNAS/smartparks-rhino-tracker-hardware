@@ -88,6 +88,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AXRDRYLI
 
+[Document4]
+DocumentPath=04_OUTPUT_FILES\03_LORA_ANT.BomDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueID=C160DFE3-245C-4FDC-8B1E-D76605690A63
 Description=BASIC
@@ -112,125 +129,33 @@ Value=000002
 DocumentPath=Project Outputs\Design Rule Check - LORA_ANT.html
 DItemRevisionGUID=
 
-[GeneratedDocument2]
-DocumentPath=04_OUTPUT_FILES\Rhino - LORA ANT_V1_GERBER & NC Drill\NC Drill\Rhino - LORA ANT_V1.DRL
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=04_OUTPUT_FILES\Rhino - LORA ANT_V1_GERBER & NC Drill\NC Drill\Rhino - LORA ANT_V1.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=04_OUTPUT_FILES\Rhino - LORA ANT_V1_GERBER & NC Drill\Gerber\Rhino - LORA ANT_V1.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=04_OUTPUT_FILES\Rhino - LORA ANT_V1_GERBER & NC Drill\Gerber\Rhino - LORA ANT_V1.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=04_OUTPUT_FILES\Rhino - LORA ANT_V1_GERBER & NC Drill\Gerber\Rhino - LORA ANT_V1.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=04_OUTPUT_FILES\Rhino - LORA ANT_V1_GERBER & NC Drill\Gerber\Rhino - LORA ANT_V1.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=04_OUTPUT_FILES\Rhino - LORA ANT_V1_GERBER & NC Drill\Gerber\Rhino - LORA ANT_V1.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=04_OUTPUT_FILES\Rhino - LORA ANT_V1_GERBER & NC Drill\Gerber\Rhino - LORA ANT_V1.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=04_OUTPUT_FILES\Rhino - LORA ANT_V1_GERBER & NC Drill\Gerber\Rhino - LORA ANT_V1.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=04_OUTPUT_FILES\Rhino - LORA ANT_V1_GERBER & NC Drill\Gerber\Rhino - LORA ANT_V1.GM2
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=04_OUTPUT_FILES\Rhino - LORA ANT_V1_GERBER & NC Drill\Gerber\Rhino - LORA ANT_V1.GM3
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=04_OUTPUT_FILES\Rhino - LORA ANT_V1_GERBER & NC Drill\Gerber\Rhino - LORA ANT_V1.GM29
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=04_OUTPUT_FILES\Rhino - LORA ANT_V1_GERBER & NC Drill\Gerber\Rhino - LORA ANT_V1.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=04_OUTPUT_FILES\Rhino - LORA ANT_V1_GERBER & NC Drill\Gerber\Rhino - LORA ANT_V1.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=04_OUTPUT_FILES\Rhino - LORA ANT_V1_GERBER & NC Drill\Gerber\Rhino - LORA ANT_V1.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=04_OUTPUT_FILES\Rhino - LORA ANT_V1_GERBER & NC Drill\Gerber\Rhino - LORA ANT_V1.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=04_OUTPUT_FILES\Rhino - LORA ANT_V1_GERBER & NC Drill\NC Drill\Rhino - LORA ANT_V1.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=04_OUTPUT_FILES\Rhino - LORA ANT_V1_GERBER & NC Drill\Gerber\Rhino - LORA ANT_V1.REP
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=04_OUTPUT_FILES\Rhino - LORA ANT_V1_GERBER & NC Drill\Gerber\Rhino - LORA ANT_V1.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=04_OUTPUT_FILES\Rhino - LORA ANT_V1_GERBER & NC Drill\NC Drill\Rhino - LORA ANT_V1.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=04_OUTPUT_FILES\Rhino - LORA ANT_V1_3D\Rhino - LORA ANT_V1_3D STEP.step
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=04_OUTPUT_FILES\Rhino - LORA ANT_V1_PICK & PLACE\Rhino - LORA ANT_V1_PICK & PLACE.csv
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=04_OUTPUT_FILES\Rhino - LORA ANT_V1_BOM\Rhino - LORA ANT_V1Bill of Materials.xlsx
-DItemRevisionGUID=
-
 [Parameter1]
-Name=Website
-Value=URL
+Name=Company
+Value=IRNAS
 
 [Parameter2]
-Name=Version
-Value=V2.1
+Name=CreateDate
+Value=13.05.2019
 
 [Parameter3]
-Name=RevisionDate
-Value=20.06.2019
+Name=PCBDesigner
+Value=Aleksej Cegner
 
 [Parameter4]
 Name=ProjectTitle
 Value=Rhino - LORA ANT
 
 [Parameter5]
-Name=PCBDesigner
-Value=Aleksej Cegner
+Name=RevisionDate
+Value=dd.mm.yyyy
 
 [Parameter6]
-Name=CreateDate
-Value=13.05.2019
+Name=Version
+Value=V1
 
 [Parameter7]
-Name=Company
-Value=IRNAS
+Name=Website
+Value=URL
 
 [Configuration1]
 Name=Default Configuration
