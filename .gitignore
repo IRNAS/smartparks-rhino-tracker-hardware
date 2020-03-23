@@ -1,6 +1,9 @@
 # General#
 ###################
 History/*
+10_OUTPUT_FILES/*
+11_DOC/*
+12_TESTING/*
 # GPS #
 ###################
 01_GPS/History/*

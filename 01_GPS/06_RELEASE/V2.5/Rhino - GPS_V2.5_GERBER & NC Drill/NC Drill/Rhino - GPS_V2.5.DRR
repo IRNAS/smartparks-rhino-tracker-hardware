@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: GPS_V2_4_PANEL_TOP.PcbDoc   4. 11. 2019  14:04:36
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Rhino - GPS_V2.5.TXT
+EIA File   : Rhino - GPS_V2.5.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             1269      PTH        0.00inch (0.00mm)
+T2      16mil (0.4mm)                                             Round             18        PTH        0.00inch (0.00mm)
+T3      20mil (0.5mm)                                             Round             27        PTH        0.00inch (0.00mm)
+T4      32mil (0.8mm)                                             Round             24        PTH        0.00inch (0.00mm)
+T5      35mil (0.9mm)                                             Round             3         PTH        0.00inch (0.00mm)
+T6      39mil (1mm)                                               Round             9         PTH        0.00inch (0.00mm)
+T7      43mil (1.1mm)                                             Round             3         PTH        0.00inch (0.00mm)
+T8      83mil (2.1mm)                                             Round             6         PTH        0.00inch (0.00mm)
+T9      122mil (3.1mm)                                            Round             4         PTH        0.00inch (0.00mm)
+T10     39mil (0.995mm)                                           Round             9         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              1372
+
+Total Processing Time (hh:mm:ss) : 00:00:01
