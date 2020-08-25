@@ -1,5 +1,7 @@
-# SmartParks Rhino Tracker
-<img src="https://github.com/IRNAS/smartparks-rhino-tracker-hardware/blob/master/11_DOC/irnas_logo.png" height="100">
+# Smart Parks Rhino Tracker Hardware
+<img src="https://github.com/IRNAS/smartparks-lion-tracker-mechanics/blob/master/logo/irnas-logo-1.png" height="100"> <img src="https://github.com/IRNAS/smartparks-lion-tracker-mechanics/blob/master/logo/smartparks-logo-1.png" height="150" align="right">
+
+<br>
 
 Device is composed from 3 different PCBs thah are stacked in to box like shape.
 
